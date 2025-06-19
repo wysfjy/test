@@ -38,7 +38,7 @@ on:
       MAKEFILE_NAME:
         description: 'MAKEFILE_NAME'
         required: true
-        default: 'omni_evergo'
+        default: 'omni_evergo-14'
       BUILD_TARGET:
         description: 'BUILD_TARGET'
         required: true
